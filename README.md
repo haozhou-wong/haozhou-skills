@@ -31,6 +31,6 @@ ln -s "$(pwd)/haozhou-skills/$SKILL" "$SKILLS_DIR/$SKILL"
 
 ## 依赖
 
-literature-survey 依赖 [paper-search-cli](https://github.com/dr-dumpling/paper-search-cli) 的 **CLI + 配套 skills**（检索、元数据核验、引文扩展、期刊指标、PDF 获取）
+literature-survey 依赖 [paper-search-cli](https://github.com/dr-dumpling/paper-search-cli) 的 **CLI + 配套 skills**（检索、元数据核验、引文扩展、期刊指标、PDF 获取）、[humanizer-zh](https://github.com/op7418/Humanizer-zh) skill（成文后可读性润色）
 
 可选：[gh CLI](https://cli.github.com/)（查 GitHub star 与维护活跃度）。安装：`sudo apt install gh`；装好后 `gh auth login` 登录。
