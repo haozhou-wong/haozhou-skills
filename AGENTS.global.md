@@ -129,7 +129,7 @@
 
 ## 提交规范
 
-默认使用 [Conventional Commits](https://www.conventionalcommits.org/)，仓库有自己的提交规范时以仓库为准。
+默认使用 [Conventional Commits](https://www.conventionalcommits.org/)，仓库有成文的提交规范或一致的历史风格时以仓库为准。
 
 - 提交要小而原子化：每个提交只包含一个逻辑改动，不同目的的改动分开提交。
 - 写提交信息前必须查看仓库最近的提交记录，用词和写法与历史风格保持一致。
